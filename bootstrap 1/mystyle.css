@@ -1,0 +1,30 @@
+body {
+    font-family: Vazirmatn;
+    font-weight: 400;
+    color: #2f3640;
+}
+.btn-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: white;
+    --bs-btn-bg: #8c7ae6;
+    border: #6657b1;
+    --bs-btn-hover-color:#eeee ;
+    --bs-btn-hover-bg: #6657b1;
+    --bs-btn-active-bg:#6657b1;
+  }
+
+.icon {
+    color:#60549b ;
+    background-color: #d3cfe7;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card-primary{
+    background: #3d3469;
+    color: aliceblue !important;
+}
+.crs{
+    background-color: #8545ca;
+}
